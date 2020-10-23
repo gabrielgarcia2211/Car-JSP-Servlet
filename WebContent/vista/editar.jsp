@@ -14,7 +14,9 @@
     <title>Actualizar Vehiculo</title>
   </head>
 <body>
-
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+	  <a class="navbar-brand" href="#">Gestion de vehiculos</a>
+	</nav>
 	<div class="container" style="margin-top:5%; margin-bottom:8%; box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);">
 		  <div class="row" style="padding:20px">
 		    <div class="col-sm-6">

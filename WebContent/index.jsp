@@ -14,6 +14,11 @@
     <title>Vehiculos</title>
   </head>
   <body>
+  <!-- As a link -->
+	<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+	  <a class="navbar-brand" href="#">Gestion de vehiculos</a>
+	</nav>
+
     <div class="container" style="margin-top:8%">
      <h1 style="text-align:center">Administrar Vehiculos</h1>
 	   

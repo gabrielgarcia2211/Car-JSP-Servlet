@@ -15,6 +15,9 @@
     <title>Aministrar Vehiculo</title>
   </head>
 <body>
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+	  <a class="navbar-brand" href="#">Gestion de vehiculos</a>
+	</nav>
 	<div class="container" style="margin-top:40px">
 	<h1>Lista Carros</h1>
 	<a href="AdminCarro?action=index" >Ir al menú</a> 

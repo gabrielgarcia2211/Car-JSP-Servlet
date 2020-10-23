@@ -19,7 +19,7 @@ public class CarroDao {
  
 	public CarroDao(String jdbcURL, String jdbcUsername, String jdbcPassword) throws SQLException {
 		System.out.println(jdbcURL);
-		con = new Conexion(jdbcURL, jdbcUsername, jdbcPassword);
+		
 	}
  
 	// insertar auto
